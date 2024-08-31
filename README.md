@@ -1,4 +1,5 @@
 # flutter_part2
+![Artboard 1 copy](https://github.com/user-attachments/assets/b794445a-0057-4d7a-a8f2-3f105399c823)
 
 A new Flutter project.
 
